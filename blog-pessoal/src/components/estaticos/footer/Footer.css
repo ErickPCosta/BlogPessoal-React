@@ -1,27 +1,18 @@
-.bgColorBox1{
-    background-color: #FFD700;
+.box1{
+    background-color: #3F51B5;
     height: 120px;
 }
 
-.bgColorBox2{
-    background-color: #000;
+.box2{
+    background-color: #303F9F;
     height: 60px;
 }
 
-.tituloFooter{
-    color: black;
-    font-weight: bold !important;
-}
-
-.tituloFooterCopy{
+.redes{
+    font-size: 60px !important;
     color: white;
 }
 
-.text-decoration-none{
-    text-decoration: none;
-}
-
-.redeSocial{
-    font-size: 60px !important;
-    color: black;
+.textos{
+   color: white;
 }
